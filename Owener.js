@@ -1,1 +1,2 @@
-// hai guyz i am the owner of this reppository
+// hai guyz i am the owner of this reppository 
+// owner me -- my name is shahinshashahinu .. don'change this ... 
