@@ -4,4 +4,3 @@ shahinsha == client
 
 //assdf
 
-how to prevent direct push to public git repositoryhow to prevent direct push to public git repository
