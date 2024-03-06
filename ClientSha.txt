@@ -3,3 +3,5 @@ daa shahinsha nee clone cheythu lle ...
 shahinsha == client
 
 //assdf
+
+how to prevent direct push to public git repository
